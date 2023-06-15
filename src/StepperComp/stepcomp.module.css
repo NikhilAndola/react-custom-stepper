@@ -1,0 +1,6 @@
+.stepButton {
+  width: 100%;
+  display: flex;
+  flex-direction: row;
+  gap: 5px;
+}
